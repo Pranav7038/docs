@@ -26,7 +26,7 @@ src/
 
 If subject depends on another subject, please make this explicit in the README.
 
-Choose the _most specific_ subject folder available when organizing code.
+Choose the _most used or specific_ subject folder available when organizin.
 
 ## When to use subject folders
 
